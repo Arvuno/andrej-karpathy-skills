@@ -172,3 +172,4 @@ MIT
 
 ## Contributing
 PRs welcome!
+\n## Improvements\n- Added API key setup notes\n- Clarified skill input format
