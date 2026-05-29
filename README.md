@@ -169,3 +169,6 @@ The goal is reducing costly mistakes on non-trivial work, not slowing down simpl
 ## License
 
 MIT
+
+<!-- Contributor: Arvuno - documentation update -->
+
